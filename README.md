@@ -1,6 +1,6 @@
 - 👋 Hello,dear.I'm samuel
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...Computer science and Engineering at University
+- 🌱 I’m currently learning ...Software Engineering at Adama science and technology University,Ethiopia
 - 💞️ I’m looking to collaborate on ...many projects
 - 📫 How to reach me via Gmail-->girmasamuel200@gmail.com
 Telegram-->http://t.me/Code_Architect01
