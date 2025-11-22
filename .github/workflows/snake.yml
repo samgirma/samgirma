@@ -26,15 +26,14 @@ jobs:
       # This is crucial for the subsequent steps to access and modify files.
       - name: Checkout repository
         uses: actions/checkout@v4 # Use the latest version
-
-      # Step 2: Generate the snake SVG
-      - name: Generate snake.svg
+        #generate 
+      - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Set the output path relative to the checkout directory
-          outputs: dist/snake.svg?palette=github-dark, dist/snake-dark.svg?palette=github-dark # Optional: Generate an extra dark version
-          # Ensure you use 'dist/' as the prefix if that's where you want the file to be built.
+          # Output *only* the main file. Do NOT include commas or a second path.
+          outputs: dist/snake.svg?palette=github-dark
+      # Ensure you use 'dist/' as the prefix if that's where you want the file to be built.
 
       # Step 3: Push the generated SVG to the 'output' branch
       # This step handles commit and push logic
