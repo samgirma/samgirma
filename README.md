@@ -56,15 +56,10 @@
 
 ### 🌟 GitHub Activity
 
-<img src="https://raw.githubusercontent.com/samgirma/samgirma/output/snake.svg" alt="Snake animation of Samuel's GitHub activity" />
+<img src="https://raw.githubusercontent.com/samgirma/samgirma/output/snake.yml" alt="Snake animation of Samuel's GitHub activity" />
 
 ---
 
 ### 🎯 Quick Info
 
-* **👀 I’m interested in:** ... coding and building innovative software solutions.
-* **🌱 I’m currently learning:** ... Software Engineering at **Adama Science and Technology University (ASTU)**, Ethiopia.
-* **💞️ I’m looking to collaborate on:** ... full-stack web development projects, open-source initiatives, and anything that challenges me to learn more!
-* **📫 How to reach me:**
-    * **Gmail:** `girmasamuel200@gmail.com`
-    * **Telegram:** [http://t.me/Code\_Architect01](http://t.me/Code_Architect01)
+
