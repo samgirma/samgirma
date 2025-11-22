@@ -56,8 +56,9 @@
 
 ### 🌟 GitHub Activity
 
-<img src="https://raw.githubusercontent.com/samgirma/samgirma/output/snake.yml" alt="Snake animation of Samuel's GitHub activity" />
+<img src="https://raw.githubusercontent.com/samgirma/samgirma/output/dist/snake.svg" alt="Animated snake showing Samuel's GitHub contributions" />
 
+---
 ---
 
 ### 🎯 Quick Info
