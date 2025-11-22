@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Samuel Girma and I'm a Software Engineering Student from Ethiopia</h2>
+<h2 align="left">Hello 👋! My name is Samuel Girma and I'm a Software Engineering Student from Ethiopia</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samgirma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Samuel's GitHub Stats" />
@@ -42,7 +42,7 @@
 <div align="left">
   <a href="mailto:girmasamuel200@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
   <img width="5" />
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
+  <a href="https://www.linkedin.com/in/samuel-girma-442088296/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
   <img width="5" />
   <a href="http://t.me/Code_Architect01"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram logo" /></a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -55,8 +55,12 @@
 ---
 
 ### 🌟 GitHub Activity
-<!-- <img src="https://raw.githubusercontent.com/samgirma/samgirma/output/snake.svg" alt="Animated snake showing Sam Girma's GitHub contributions" /> -->
-<img src="https://raw.githubusercontent.com/samgirma/samgirma/output/dist/snake.svg?palette=github-dark, dist" alt="Animated snake showing Samuel's GitHub contributions" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samgirma/samgirma/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samgirma/samgirma/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/samgirma/samgirma/output/dist/snake.svg" alt="Animated snake showing Sam Girma's GitHub contributions" />
+</picture>
 ### 🎯 Quick Info
 
 
