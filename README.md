@@ -61,6 +61,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samgirma/samgirma/output/snake.svg" />
   <img src="https://raw.githubusercontent.com/samgirma/samgirma/output/dist/snake.svg" alt="Animated snake showing Sam Girma's GitHub contributions" />
 </picture>
-### 🎯 Quick Info
 
 
