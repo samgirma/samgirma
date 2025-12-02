@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Samuel Girma and I'm a Software Engineering Student from Ethiopia</h2>
+<h2 align="left">Hello 👋! I am Samuel Girma, a dedicated Software Engineer and Full Stack Developer. With a strong background in penetration testing and competitive cybersecurity as a CTF player, I bring a security-first mindset to my work. The links provided below are designed to simplify navigation through my GitHub repositories.</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samgirma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Samuel's GitHub Stats" />
@@ -8,8 +8,6 @@
 ---
 
 ### 💻 Tech Stack & Skills
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
@@ -62,4 +60,21 @@
   <img src="https://raw.githubusercontent.com/samgirma/samgirma/output/dist/snake.svg" alt="Animated snake showing Sam Girma's GitHub contributions" />
 </picture>
 
+---
 
+### 🔗 Contents
+
+#### backend development🧱
+* [Todo-api using express](https://github.com/samgirma/TodoList)
+* [Logistic and supply chain DataBase ](https://github.com/samgirma/Logistics-Supply-Chain)
+
+#### Fullstack development🌐
+* [Certificate validation](https://github.com/samgirma/Certificate-Validation)
+* [Blockchai  based voting system](https://github.com/samgirma/Blockchain_based_voting_system)
+* [School management system(on development)](https://github.com/samgirma/School-management-system)
+#### Cyber security💀
+* [Walkthrough](https://github.com/samgirma/CTF-writeups)
+#### General
+* [Competative programming](https://github.com/samgirma/CPD_TEST)
+* [terminal based Python student mnagement system](https://github.com/samgirma/Student-management-system)
+* [Terminla based C++ bank management system](https://github.com/samgirma/Bank-management-system)
