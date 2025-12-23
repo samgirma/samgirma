@@ -72,6 +72,7 @@
 * [Certificate validation](https://github.com/samgirma/Certificate-Validation)
 * [Blockchai  based voting system](https://github.com/samgirma/Blockchain_based_voting_system)
 * [School management system(on development)](https://github.com/samgirma/School-management-system)
+* [Negarit chat app](https://github.com/samgirma/Negarit_Full_stack_App)
 #### Cyber security💀
 * [Walkthrough](https://github.com/samgirma/CTF-writeups)
 #### General
