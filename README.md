@@ -69,11 +69,11 @@
 * [Logistic and supply chain DataBase ](https://github.com/samgirma/Logistics-Supply-Chain)
 
 #### Fullstack development🌐
-* [Certificate validation](https://github.com/samgirma/Certificate-Validation)
-* [Blockchai  based voting system](https://github.com/samgirma/Blockchain_based_voting_system)
+* [Certificate validation(Under maintenance)](https://github.com/samgirma/Certificate-Validation)
+* [Blockchai  based voting system(SRS)](https://github.com/samgirma/Blockchain_based_voting_system)
 * [School management system(on development)](https://github.com/samgirma/School-management-system)
-* [Negarit chat app](https://github.com/samgirma/Negarit_Full_stack_App)
-* [Secure online examination system](https://github.com/samgirma/Secure-online-examination-system)
+* [Negarit chat app(V1.0.0)](https://github.com/samgirma/Negarit_Full_stack_App)
+* [Secure online examination system(V1.0.0)](https://github.com/samgirma/Secure-online-examination-system)
 #### Cyber security💀
 * [Walkthrough](https://github.com/samgirma/CTF-writeups)
 #### General
