@@ -76,6 +76,7 @@
 * [Secure online examination system(V1.0.0)](https://github.com/samgirma/Secure-online-examination-system)
 #### Cyber security💀
 * [Walkthrough](https://github.com/samgirma/CTF-writeups)
+* [Hackers_blog](https://github.com/samgirma/hackers_blog)
 #### General
 * [Competative programming](https://github.com/samgirma/CPD_TEST)
 * [terminal based Python student mnagement system](https://github.com/samgirma/Student-management-system)
