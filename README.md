@@ -85,3 +85,7 @@
 * [Competative programming](https://github.com/samgirma/CPD_TEST)
 * [terminal based Python student mnagement system](https://github.com/samgirma/Student-management-system)
 * [Terminla based C++ bank management system](https://github.com/samgirma/Bank-management-system)
+
+#### Deployed projects
+* [negarit_chatapp](https://negarit-beta.vercel.app/)
+* [online examination system](https://online-exam-app-mauve.vercel.app/)
