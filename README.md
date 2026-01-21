@@ -1,10 +1,9 @@
 <h2 align="left">Hello 👋! I am Samuel Girma, a dedicated Software Engineer and Full Stack Developer. With a strong background in penetration testing and competitive cybersecurity as a CTF player, I bring a security-first mindset to my work. The links provided below are designed to simplify navigation through my GitHub repositories.</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samgirma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Samuel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samgirma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Samuel's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=samgirma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Samuel's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=samgirma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Samuel's Top Languages" />
 </div>
-
 ---
 
 ### 💻 Tech Stack & Skills
