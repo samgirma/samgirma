@@ -64,6 +64,7 @@
 
 ### 🔗 Contents
 
+#### Web2
 #### backend development🧱
 * [Todo-api using express](https://github.com/samgirma/TodoList)
 * [Logistic and supply chain DataBase ](https://github.com/samgirma/Logistics-Supply-Chain)
@@ -74,6 +75,9 @@
 * [School management system(on development)](https://github.com/samgirma/School-management-system)
 * [Negarit chat app(V1.0.0)](https://github.com/samgirma/Negarit_Full_stack_App)
 * [Secure online examination system(V1.0.0)](https://github.com/samgirma/Secure-online-examination-system)
+---
+#### Web3(Now time my focus area)
+* [Certificate validation_using_blockchain(Under maintenance)](https://github.com/samgirma/Certificate-Validation)
 #### Cyber security💀
 * [Walkthrough](https://github.com/samgirma/CTF-writeups)
 * [Hackers_blog](https://github.com/samgirma/hackers_blog)
