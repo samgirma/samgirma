@@ -88,3 +88,4 @@
 #### Deployed projects
 * [negarit_chatapp](https://negarit-beta.vercel.app/)
 * [online examination system](https://online-exam-app-mauve.vercel.app/)
+* [Bingo online game](cooming.soon)
