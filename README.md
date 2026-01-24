@@ -3,8 +3,30 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=samgirma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Samuel's GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=samgirma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Samuel's Top Languages" />
+
 </div>
+
+
+---  
+
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Fozia31&theme=dark)
+
+<p align="center">
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=Fozia31&theme=dark&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
+</div>
+
+
 ---
+
+
 
 ### 💻 Tech Stack & Skills
 
