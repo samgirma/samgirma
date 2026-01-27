@@ -89,6 +89,7 @@
 #### backend development🧱
 * [Todo-api using express](https://github.com/samgirma/TodoList)
 * [Logistic and supply chain DataBase ](https://github.com/samgirma/Logistics-Supply-Chain)
+* [my portifolio website](https://github.com/samgirma/my_portifolio)
 
 #### Fullstack development🌐
 * [Certificate validation(Under maintenance)](https://github.com/samgirma/Certificate-Validation)
@@ -108,6 +109,7 @@
 * [Terminla based C++ bank management system](https://github.com/samgirma/Bank-management-system)
 
 #### Deployed projects
-* [negarit_chatapp](https://negarit-beta.vercel.app/)
-* [online examination system](https://online-exam-app-mauve.vercel.app/)
+* [negarit_chatapp(backend is under maintanance)](https://negarit-beta.vercel.app/)
+* [online examination system(backend is under maintanance)](https://online-exam-app-mauve.vercel.app/)
 * [Bingo online game](cooming.soon)
+* [my posrtifolio](https://samuelgirma-sand.vercel.app/)
