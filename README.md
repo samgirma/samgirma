@@ -112,4 +112,4 @@
 * [negarit_chatapp(backend is under maintanance)](https://negarit-beta.vercel.app/)
 * [online examination system(backend is under maintanance)](https://online-exam-app-mauve.vercel.app/)
 * [Bingo online game](cooming.soon)
-* [my posrtifolio](https://samuelgirma-sand.vercel.app/)
+* [my posrtifolio](https://www.samgirma.app/)
