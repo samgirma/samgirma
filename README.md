@@ -104,6 +104,7 @@
 * [Walkthrough](https://github.com/samgirma/CTF-writeups)
 * [Hackers_blog](https://github.com/samgirma/hackers_blog)
 #### General
+* [certificates](https://github.com/samgirma/certificates)
 * [Competative programming](https://github.com/samgirma/CPD_TEST)
 * [terminal based Python student mnagement system](https://github.com/samgirma/Student-management-system)
 * [Terminla based C++ bank management system](https://github.com/samgirma/Bank-management-system)
