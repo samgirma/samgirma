@@ -14,13 +14,8 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Fozia31&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=samgirma&theme=dark)
 
-<p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=Fozia31&theme=dark&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
 </div>
 
 
