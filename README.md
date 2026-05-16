@@ -98,6 +98,8 @@
 #### Cyber security💀
 * [Walkthrough](https://github.com/samgirma/CTF-writeups)
 * [Hackers_blog](https://github.com/samgirma/hackers_blog)
+* [Python_Black_Hat](https://github.com/samgirma/black_hat-python)
+  
 #### General
 * [certificates](https://github.com/samgirma/certificates)
 * [Competative programming](https://github.com/samgirma/CPD_TEST)
