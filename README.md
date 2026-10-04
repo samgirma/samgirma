@@ -39,8 +39,6 @@ Building <b>secure, practical, and scalable software</b> at the intersection of 
 
 
 
----  
-
 
 ### 📊 GitHub Stats, Activity & Rank
 
@@ -66,9 +64,6 @@ Building <b>secure, practical, and scalable software</b> at the intersection of 
   </tr>
 </table>
 
----
-
----
 
 
 
