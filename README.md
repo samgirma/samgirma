@@ -10,14 +10,31 @@
 ---  
 
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats, Activity & Rank
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <strong>🔥 GitHub Streak</strong><br><br>
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=samgirma&theme=dark"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td align="center">
+      <strong>🏆 GitHub Rank & Activity</strong><br><br>
+      <a href="https://ghfind.com/u/samgirma?ref=badge">
+        <img
+          src="https://ghfind.com/api/card/mini/samgirma?theme=dark"
+          alt="GitHub Rank & Activity"
+          width="440"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=samgirma&theme=dark)
-
-</div>
-
+---
 
 ---
 
